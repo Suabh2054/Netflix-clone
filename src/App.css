@@ -1,0 +1,15 @@
+*{
+  margin:0;
+  
+}
+
+.app{
+  background-color: #111;
+}
+.breaker{
+  
+  height: 1px;
+  border: 0;
+  opacity: 0.7;
+  background-image: linear-gradient(#e50914, #111);
+}
